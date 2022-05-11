@@ -1,2 +1,10 @@
 # M1TAL_Semantic_Web
-SemanticWebProject
+SemanticWeb Project by
+
+- Adelia Khasanova
+- Shane Kaszefski-Yaschuk
+- Dimitra Niaouri
+- Luis Antonio Vasquez Reina
+
+
+
