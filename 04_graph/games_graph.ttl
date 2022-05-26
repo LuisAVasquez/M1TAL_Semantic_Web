@@ -1,0 +1,5093 @@
+@prefix swproj: <http://swproj.org/> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+
+wd:Q11168 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "single-player video game"@en,
+        "two-player video game"@en ;
+    swproj:genre "platform game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Super Mario Bros."@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Nintendo Entertainment System"@en .
+
+wd:Q112912 swproj:distributor "App Store"@en,
+        "Epic Games Store"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Now"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "fictional crossover"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "Lego Batman 2: DC Super Heroes"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "PlayStation Vita"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q113289 swproj:distributor "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "action game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Chivalry: Medieval Warfare"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "macOS"@en .
+
+wd:Q117859 swproj:distributor "GOG.com"@en,
+        "Humble Store"@en,
+        "PlayStation Now"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "single-player video game"@en ;
+    swproj:genre "indie game"@en,
+        "platform game"@en,
+        "puzzle video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Trine"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "PlayStation Portable"@en,
+        "macOS"@en .
+
+wd:Q129114 swproj:distributor "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "puzzle video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "The Ball"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Ouya"@en .
+
+wd:Q129277 swproj:distributor "GOG.com"@en,
+        "Humble Store"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Hitman: Absolution"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q130887 swproj:distributor "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "Romance"@en,
+        "first-person shooter"@en,
+        "indie game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Killing Floor"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q133427 swproj:distributor "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "survival game"@en ;
+    swproj:input_method "Xbox 360 controller"@en,
+        "Xbox Wireless Controller"@en,
+        "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "State of Decay"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en .
+
+wd:Q133441 swproj:distributor "App Store"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "role-playing video game"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "Tales of Hearts"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Nintendo DS"@en,
+        "PlayStation Vita"@en,
+        "iOS"@en .
+
+wd:Q137924 swproj:distributor "App Store"@en,
+        "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "association football video game"@en ;
+    swproj:input_method "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "FIFA 12"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "PlayStation Vita"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q137977 swproj:distributor "App Store"@en,
+        "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "association football video game"@en ;
+    swproj:input_method "Kinect"@en,
+        "PlayStation Move"@en,
+        "computer keyboard"@en,
+        "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "FIFA 13"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo 3DS"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "PlayStation Vita"@en,
+        "Wii"@en,
+        "Wii U"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q144728 swproj:distributor "App Store"@en,
+        "Google Play"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "puzzle video game"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "Bad Piggies"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Android"@en,
+        "BlackBerry 10"@en,
+        "Microsoft Windows"@en,
+        "Wii U"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q146124 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "racing video game"@en ;
+    swproj:input_method "joystick"@en ;
+    swproj:name "Excitebike"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Family Computer Disk System"@en,
+        "Game Boy Advance"@en,
+        "NEC PC-8800 series"@en,
+        "Nintendo 3DS"@en,
+        "Nintendo Entertainment System"@en,
+        "Sharp X1"@en,
+        "arcade game machine"@en .
+
+wd:Q147074 swproj:distributor "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "ZanZarah: The Hidden Portal"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q149106 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "PlayStation Store"@en,
+        "Steam"@en,
+        "Take-Two Interactive"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Grand Theft Auto III"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "Xbox"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q149998 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "platform game"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "game controller"@en ;
+    swproj:name "Paper Mario"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Nintendo 64"@en,
+        "Nintendo Switch"@en,
+        "Wii"@en,
+        "Wii U"@en,
+        "iQue Player"@en .
+
+wd:Q150294 swproj:distributor "GOG.com"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "fighting game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Mortal Kombat"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Commodore Amiga"@en,
+        "DOS"@en,
+        "Game Boy"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "PlayStation Portable"@en,
+        "Sega Game Gear"@en,
+        "Sega Master System"@en,
+        "Sega Mega Drive"@en,
+        "Sega Mega-CD"@en,
+        "Super Nintendo Entertainment System"@en,
+        "Xbox"@en,
+        "arcade game machine"@en .
+
+wd:Q151531 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "platform game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Sonic Chaos"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Sega Game Gear"@en,
+        "Sega Master System"@en .
+
+wd:Q151614 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "platform game"@en ;
+    swproj:input_method "Wii Remote"@en ;
+    swproj:name "Sonic Colors"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Nintendo DS"@en,
+        "Wii"@en .
+
+wd:Q154090 swproj:distributor "GOG.com"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "role-playing video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "The Temple of Elemental Evil"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q161188 swproj:distributor "MGM Interactive"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "James Bond 007: Nightfire"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Game Boy Advance"@en,
+        "Microsoft Windows"@en,
+        "Nintendo GameCube"@en,
+        "PlayStation 2"@en,
+        "Xbox"@en,
+        "macOS"@en .
+
+wd:Q161192 swproj:distributor "MGM Interactive"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en,
+        "Xbox Games Store"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "game controller"@en ;
+    swproj:name "007 Legends"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Wii U"@en,
+        "Xbox 360"@en .
+
+wd:Q161202 swproj:distributor "MGM Interactive"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "third-person shooter"@en ;
+    swproj:input_method "game controller"@en ;
+    swproj:name "James Bond 007: Everything or Nothing"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Nintendo GameCube"@en,
+        "PlayStation 2"@en,
+        "Xbox"@en .
+
+wd:Q162707 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "fictional crossover"@en,
+        "racing video game"@en ;
+    swproj:input_method "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "Sonic & Sega All-Stars Racing"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 3"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q162751 swproj:distributor "GOG.com"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "Romance"@en,
+        "first-person shooter"@en,
+        "post-apocalyptic fiction"@en,
+        "stealth game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Metro 2033"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 4"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en,
+        "macOS"@en .
+
+wd:Q163628 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "tactical shooter"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "microphone"@en,
+        "mouse"@en ;
+    swproj:name "Counter-Strike"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "Xbox"@en,
+        "macOS"@en .
+
+wd:Q166226 swproj:distributor "Epic Games Store"@en,
+        "PlayStation Now"@en,
+        "PlayStation Store"@en,
+        "Sony"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "interactive film"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Beyond: Two Souls"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en .
+
+wd:Q167330 swproj:distributor "Ubisoft"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "adventure game"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Pirates of the Caribbean"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Game Boy Advance"@en,
+        "Microsoft Windows"@en,
+        "Xbox"@en .
+
+wd:Q168615 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "racing video game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "1080° Snowboarding"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Nintendo 64"@en .
+
+wd:Q170003 swproj:distributor "PlayStation Store"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "platform game"@en ;
+    swproj:input_method "DualShock 2"@en,
+        "DualShock 3"@en,
+        "Sixaxis"@en,
+        "gamepad"@en ;
+    swproj:name "Ratchet & Clank"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Vita"@en .
+
+wd:Q170410 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "platform game"@en,
+        "side-scrolling video game"@en ;
+    swproj:input_method "Wii Remote"@en ;
+    swproj:name "New Super Mario Bros. Wii"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Wii"@en .
+
+wd:Q170489 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "single-player video game"@en ;
+    swproj:genre "platform game"@en,
+        "science fantasy video game"@en ;
+    swproj:input_method "Wii Remote"@en ;
+    swproj:name "Super Mario Galaxy"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Wii"@en,
+        "Wii U"@en .
+
+wd:Q17146 swproj:distributor "PlayStation Now"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "platform game"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "DualShock 3"@en,
+        "DualShock 4"@en ;
+    swproj:name "Uncharted 2: Among Thieves"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "PlayStation 3"@en,
+        "PlayStation 4"@en .
+
+wd:Q17150 swproj:distributor "PlayStation Now"@en,
+        "PlayStation Store"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "platform game"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "DualShock 3"@en,
+        "DualShock 4"@en ;
+    swproj:name "Uncharted: Drake's Fortune"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "PlayStation 3"@en,
+        "PlayStation 4"@en .
+
+wd:Q17452 swproj:distributor "Epic Games Store"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "PlayStation Store"@en,
+        "Steam"@en,
+        "Take-Two Interactive"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "player versus player"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "first-person shooter"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Grand Theft Auto V"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "PlayStation 5"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en,
+        "Xbox Series X and Series S"@en .
+
+wd:Q179247 swproj:distributor "App Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "adventure game"@en ;
+    swproj:input_method "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "The Secret of Monkey Island"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Atari ST"@en,
+        "Classic Mac OS"@en,
+        "Commodore Amiga"@en,
+        "DOS"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Sega Mega Drive"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q180181 swproj:distributor "MGM Interactive"@en,
+        "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "GoldenEye: Rogue Agent"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Nintendo DS"@en,
+        "Nintendo GameCube"@en,
+        "PlayStation 2"@en,
+        "Xbox"@en .
+
+wd:Q185482 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "life simulation game"@en,
+        "social simulation game"@en,
+        "video game with LGBT character"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "The Sims 3"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "BlackBerry OS"@en,
+        "Microsoft Windows"@en,
+        "Nintendo 3DS"@en,
+        "Nintendo DS"@en,
+        "PlayStation 3"@en,
+        "Wii"@en,
+        "Windows Phone"@en,
+        "Xbox 360"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q187351 swproj:distributor "App Store"@en,
+        "PlayStation Now"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "racing video game"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "Split/Second"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Java Virtual Machine"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q187894 swproj:distributor "GOG.com"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "strategy game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Robin Hood: The Legend of Sherwood"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q18940 swproj:distributor "Apogee Software"@en,
+        "App Store"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "joystick"@en,
+        "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Wolfenstein 3D"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "3DO Interactive Multiplayer"@en,
+        "Acorn Archimedes"@en,
+        "Amiga 1200"@en,
+        "AmigaOS"@en,
+        "Apple II series"@en,
+        "Apple IIGS"@en,
+        "Atari Jaguar"@en,
+        "Atari ST"@en,
+        "Atari TOS"@en,
+        "Classic Mac OS"@en,
+        "Game Boy Advance"@en,
+        "IBM Personal Computer"@en,
+        "MS-DOS"@en,
+        "Microsoft Windows"@en,
+        "MorphOS"@en,
+        "PlayStation 3"@en,
+        "Pocket PC"@en,
+        "Super Nintendo Entertainment System"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q18951 swproj:distributor "Electronic Arts"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "Half-Life 2: Episode One"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q189784 swproj:distributor "App Store"@en,
+        "GOG.com"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fantasy video game"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "joystick"@en,
+        "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Doom"@en ;
+    swproj:pegi "PEGI 16"@en,
+        "PEGI 18"@en ;
+    swproj:platform "3DO Interactive Multiplayer"@en,
+        "Amiga 1200"@en,
+        "Android"@en,
+        "Atari Jaguar"@en,
+        "Classic Mac OS"@en,
+        "DOS"@en,
+        "Game Boy Advance"@en,
+        "IRIX"@en,
+        "Linux"@en,
+        "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "PlayStation"@en,
+        "PlayStation 3"@en,
+        "RiscPC"@en,
+        "Sega 32X"@en,
+        "Sega Mega Drive"@en,
+        "Sega Saturn"@en,
+        "Solaris"@en,
+        "Super Nintendo Entertainment System"@en,
+        "Xbox"@en,
+        "Xbox 360"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q193581 swproj:distributor "Google Play"@en,
+        "Steam"@en,
+        "Vivendi Games"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Half-Life 2"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Android"@en,
+        "Linux"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q195158 swproj:distributor "GOG.com"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action game"@en,
+        "action role-playing game"@en,
+        "adventure game"@en,
+        "hack and slash"@en,
+        "roguelike"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Lionheart: Legacy of the Crusader"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q195280 swproj:distributor "App Store"@en,
+        "Electronic Arts"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action game"@en,
+        "action-adventure game"@en ;
+    swproj:input_method "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "Toy Story 3"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q200864 swproj:distributor "Epic Games Store"@en,
+        "GOG.com"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "video game with LGBT character"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Assassin's Creed"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en .
+
+wd:Q201792 swproj:distributor "Discord Store"@en,
+        "Epic Games Store"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en,
+        "indie game"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Torchlight"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q20420 swproj:distributor "GOG.com"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "real-time strategy"@en,
+        "strategy video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Empire Earth"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q206653 swproj:distributor "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "Battlefield 2"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q207797 swproj:distributor "Humble Store"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Call of Duty: World at War"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Wii"@en,
+        "Windows Mobile"@en,
+        "Xbox 360"@en .
+
+wd:Q207986 swproj:distributor "Humble Store"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Call of Duty: Black Ops"@en ;
+    swproj:pegi "PEGI 16"@en,
+        "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en,
+        "macOS"@en .
+
+wd:Q210844 swproj:distributor "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "god game"@en,
+        "life simulation game"@en,
+        "real-time strategy"@en,
+        "role-playing video game"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Spore"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q211096 swproj:distributor "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Call of Duty"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "N-Gage"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q211735 swproj:distributor "Epic Games Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "stealth game"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Assassin's Creed II"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en,
+        "macOS"@en .
+
+wd:Q213217 swproj:distributor "Discord Store"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "Steam"@en,
+        "Take-Two Interactive"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "third-person shooter"@en,
+        "vehicular combat game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Mafia"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "Xbox"@en .
+
+wd:Q213911 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "The Legend of Zelda: Ocarina of Time"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Nintendo 3DS"@en,
+        "Nintendo 64"@en,
+        "Nintendo GameCube"@en,
+        "Virtual Console"@en,
+        "Wii"@en .
+
+wd:Q214232 swproj:distributor "App Store"@en,
+        "Eidos Interactive"@en,
+        "Google Play"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "cyberpunk video game"@en,
+        "role-playing video game"@en,
+        "science fantasy video game"@en ;
+    swproj:input_method "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "Final Fantasy VII"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "PlayStation"@en,
+        "PlayStation 4"@en,
+        "iOS"@en .
+
+wd:Q215861 swproj:distributor "GOG.com"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "Romance"@en,
+        "first-person shooter"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "S.T.A.L.K.E.R.: Shadow of Chernobyl"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q216995 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "collect-a-thon platformer"@en,
+        "platform game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Super Mario 64"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Nintendo 64"@en .
+
+wd:Q217423 swproj:distributor "Epic Games Store"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fantasy video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Quake"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Classic Mac OS"@en,
+        "Commodore Amiga"@en,
+        "Linux"@en,
+        "MS-DOS"@en,
+        "Microsoft Windows"@en,
+        "Nintendo 64"@en,
+        "Nintendo Switch"@en,
+        "Sega Saturn"@en .
+
+wd:Q219119 swproj:distributor "Epic Games Store"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "Wii U GamePad"@en ;
+    swproj:name "ZombiU"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 4"@en,
+        "Wii U"@en,
+        "Xbox One"@en .
+
+wd:Q220365 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "racing video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en,
+        "racing wheel"@en ;
+    swproj:name "Need for Speed: Most Wanted"@en ;
+    swproj:pegi "PEGI 12"@en,
+        "PEGI 3"@en ;
+    swproj:platform "Game Boy Advance"@en,
+        "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "Nintendo GameCube"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Xbox"@en,
+        "Xbox 360"@en,
+        "personal computer"@en .
+
+wd:Q220960 swproj:distributor "GOG.com"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Diablo"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Classic Mac OS"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 4"@en,
+        "macOS"@en .
+
+wd:Q221164 swproj:distributor "GOG.com"@en,
+        "Humble Store"@en,
+        "PlayStation Now"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en,
+        "first-person shooter"@en,
+        "role-playing video game"@en,
+        "third-person shooter"@en,
+        "video game with LGBT character"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "Fallout 3"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en .
+
+wd:Q223341 swproj:distributor "Epic Games Store"@en,
+        "Riot Games"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en ;
+    swproj:genre "multiplayer online battle arena"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "League of Legends"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q225861 swproj:distributor "App Store"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "adventure game"@en,
+        "mystery fiction"@en,
+        "puzzle video game"@en,
+        "science fiction"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "Professor Layton and the Unwound Future"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Nintendo DS"@en,
+        "iOS"@en .
+
+wd:Q225912 swproj:distributor "Disney Interactive Studios"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en,
+        "fictional crossover"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Kingdom Hearts"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "Xbox One"@en .
+
+wd:Q226805 swproj:distributor "Discord Store"@en,
+        "Epic Games Store"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en,
+        "indie game"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Torchlight II"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "macOS"@en .
+
+wd:Q237484 swproj:distributor "Electronic Arts"@en,
+        "GOG.com"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Crysis"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en .
+
+wd:Q2377 swproj:distributor "Discord Store"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "Steam"@en,
+        "Take-Two Interactive"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer online game"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "4X"@en,
+        "grand strategy wargame"@en,
+        "turn-based strategy video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Civilization IV"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Classic Mac OS"@en,
+        "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q2385 swproj:distributor "Steam"@en,
+        "Take-Two Interactive"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "4X"@en,
+        "turn-based strategy video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Civilization V"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q2387 swproj:distributor "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "real-time tactics"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Commandos 2: Men of Courage"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "Xbox"@en,
+        "macOS"@en .
+
+wd:Q239889 swproj:distributor "GOG.com"@en,
+        "Humble Store"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "Christmas video game"@en,
+        "action-adventure game"@en,
+        "stealth game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Hitman: Blood Money"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "Xbox"@en,
+        "Xbox 360"@en,
+        "personal computer"@en .
+
+wd:Q240143 swproj:distributor "GOG.com"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "adventure game"@en,
+        "point-and-click adventure"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Maniac Mansion"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Apple II series"@en,
+        "Atari ST"@en,
+        "Commodore 64"@en,
+        "Commodore Amiga"@en,
+        "DOS"@en,
+        "Nintendo Entertainment System"@en .
+
+wd:Q24071 swproj:distributor "PlayStation Store"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "racing video game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "MotorStorm: Arctic Edge"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "PlayStation 2"@en,
+        "PlayStation Portable"@en .
+
+wd:Q24300 swproj:distributor "PlayStation Now"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "DualShock"@en ;
+    swproj:name "InFamous 2"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "PlayStation 3"@en .
+
+wd:Q244030 swproj:distributor "Microsoft Store"@en,
+        "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en,
+        "dungeon crawl"@en,
+        "hack and slash"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Diablo III"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en,
+        "macOS"@en .
+
+wd:Q245006 swproj:distributor "App Store"@en,
+        "Eidos Interactive"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "role-playing video game"@en,
+        "science fantasy video game"@en,
+        "video game with LGBT character"@en ;
+    swproj:input_method "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "Final Fantasy VIII"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "PlayStation"@en,
+        "iOS"@en .
+
+wd:Q250019 swproj:distributor "Epic Games"@en,
+        "GOG.com"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Unreal II: The Awakening"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Xbox"@en .
+
+wd:Q250989 swproj:distributor "GOG.com"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "racing video game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "TOCA Race Driver 3"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Apple Macintosh"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "PlayStation Portable"@en,
+        "Xbox"@en .
+
+wd:Q254090 swproj:distributor "App Store"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "racing video game"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "F1 2011"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation Vita"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q254851 swproj:distributor "Warner Bros. Interactive Entertainment"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Harry Potter and the Order of the Phoenix"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Game Boy Advance"@en,
+        "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q257469 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Nintendo eShop"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "cinematic platformer"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "joystick"@en,
+        "touchscreen"@en ;
+    swproj:name "Another World"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "3DO Interactive Multiplayer"@en,
+        "Android"@en,
+        "Apple IIGS"@en,
+        "Atari Jaguar"@en,
+        "Atari ST"@en,
+        "Classic Mac OS"@en,
+        "Commodore Amiga"@en,
+        "DOS"@en,
+        "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "Sega Mega Drive"@en,
+        "Sega Mega-CD"@en,
+        "Super Nintendo Entertainment System"@en,
+        "Symbian"@en,
+        "Windows Mobile"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q257816 swproj:distributor "App Store"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "adventure game"@en,
+        "life simulation game"@en,
+        "role-playing video game"@en,
+        "strategy video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "The Sims Medieval"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Windows Phone"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q258530 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "real-time strategy"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Knights of Honor"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q265889 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Nintendo eShop"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "shoot 'em up"@en ;
+    swproj:input_method "Wii Remote"@en,
+        "touchscreen"@en ;
+    swproj:name "The House of the Dead: Overkill"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Wii"@en,
+        "iOS"@en .
+
+wd:Q268256 swproj:distributor "GOG.com"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "adventure game"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "Still Life"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Classic Mac OS"@en,
+        "Microsoft Windows"@en,
+        "Xbox"@en .
+
+wd:Q268616 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "massively multiplayer online role-playing game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Metin2"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q269487 swproj:distributor "GOG.com"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Catacomb 3-D"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "DOS"@en .
+
+wd:Q271062 swproj:distributor "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "real-time strategy"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Age of Mythology"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Classic Mac OS"@en,
+        "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q274897 swproj:distributor "Electronic Arts"@en,
+        "Google Play"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "puzzle-platformer"@en,
+        "science fiction"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "touchscreen"@en ;
+    swproj:name "Portal"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "Linux"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q275950 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Now"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "Romance"@en,
+        "action-adventure game"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Resident Evil 4"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "Nintendo GameCube"@en,
+        "Nintendo Switch"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en,
+        "Zeebo"@en,
+        "iOS"@en .
+
+wd:Q275960 swproj:distributor "Humble Store"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "LGBTI+ related video game"@en,
+        "action role-playing game"@en,
+        "role-playing video game"@en,
+        "science fiction video game"@en,
+        "space opera video game"@en,
+        "third-person shooter"@en,
+        "video game with LGBT character"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Mass Effect"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en .
+
+wd:Q277377 swproj:distributor "Deep Silver"@en,
+        "PlayStation Now"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "LGBTI+ related video game"@en,
+        "Romance"@en,
+        "action-adventure game"@en,
+        "platform game"@en,
+        "psychological horror"@en,
+        "puzzle video game"@en,
+        "video game with LGBT character"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Catherine"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "PlayStation Vita"@en,
+        "Xbox 360"@en,
+        "personal computer"@en .
+
+wd:Q279446 swproj:distributor "Electronic Arts"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "post-apocalyptic fiction"@en,
+        "puzzle video game"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en,
+        "video game console"@en ;
+    swproj:name "Portal 2"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q279744 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Half-Life"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "macOS"@en .
+
+wd:Q281246 swproj:distributor "Humble Store"@en,
+        "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "racing video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Need for Speed: The Run"@en ;
+    swproj:pegi "PEGI 16"@en,
+        "PEGI 7"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo 3DS"@en,
+        "PlayStation 3"@en,
+        "Wii"@en,
+        "Xbox 360"@en .
+
+wd:Q282008 swproj:distributor "Microsoft Store"@en,
+        "Square Enix"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fantasy video game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "TimeSplitters 2"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Nintendo GameCube"@en,
+        "PlayStation 2"@en,
+        "Xbox"@en .
+
+wd:Q282623 swproj:distributor "GOG.com"@en,
+        "Humble Store"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Legacy of Kain: Soul Reaver"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation"@en,
+        "Sega Dreamcast"@en .
+
+wd:Q283878 swproj:distributor "Xbox Game Studios"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "Xbox 360 controller"@en ;
+    swproj:name "Halo: Reach"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Xbox 360"@en .
+
+wd:Q286305 swproj:distributor "App Store"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "basketball video game"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "NBA Elite 11"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "iOS"@en .
+
+wd:Q286737 swproj:distributor "Direct2Drive"@en,
+        "Humble Store"@en,
+        "Steam"@en,
+        "itch.io"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "indie game"@en,
+        "psychological horror"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "The Path"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q287330 swproj:distributor "App Store"@en,
+        "GOG.com"@en,
+        "Google Play"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "adventure game"@en,
+        "cyberpunk video game"@en,
+        "indie game"@en,
+        "neo-noir"@en ;
+    swproj:input_method "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Gemini Rue"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Android"@en,
+        "Linux"@en,
+        "Microsoft Windows"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q287409 swproj:distributor "App Store"@en,
+        "Discord Store"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Now"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "platform game"@en,
+        "puzzle video game"@en ;
+    swproj:input_method "Wii Remote"@en,
+        "touchscreen"@en ;
+    swproj:name "De Blob"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Android"@en,
+        "Binary Runtime Environment for Wireless"@en,
+        "BlackBerry OS"@en,
+        "Java Platform, Micro Edition"@en,
+        "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "PlayStation 4"@en,
+        "Wii"@en,
+        "Windows Phone"@en,
+        "Xbox One"@en,
+        "iOS"@en .
+
+wd:Q287637 swproj:distributor "GOG.com"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "The Witcher"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q288811 swproj:distributor "Epic Games Store"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "PlayStation Now"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "science fantasy video game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Batman: Arkham City"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "Wii U"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en,
+        "macOS"@en .
+
+wd:Q290534 swproj:distributor "Activision Publishing"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Quake 4"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "Xbox"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q296101 swproj:distributor "Electronic Arts"@en,
+        "PlayStation Now"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "APB: All Points Bulletin"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 4"@en .
+
+wd:Q296744 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "ARMA 2"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q301410 swproj:distributor "Steam"@en,
+        "Take-Two Interactive"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "turn-based tactics"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Shattered Union"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Xbox"@en .
+
+wd:Q302839 swproj:distributor "Humble Store"@en,
+        "PlayStation Now"@en,
+        "PlayStation Store"@en,
+        "Steam"@en,
+        "Take-Two Interactive"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "BioShock 2"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q317620 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "Tomb Raider"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "DOS"@en,
+        "MS-DOS"@en,
+        "Microsoft Windows"@en,
+        "N-Gage"@en,
+        "PlayStation"@en,
+        "Sega Saturn"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q323264 swproj:distributor "Bethesda Softworks"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "PlayStation Now"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "adventure"@en,
+        "stealth game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Dishonored"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en .
+
+wd:Q323862 swproj:distributor "Humble Store"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en,
+        "action-adventure game"@en,
+        "fantasy"@en,
+        "role-playing video game"@en,
+        "video game with LGBT character"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "The Elder Scrolls V: Skyrim"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "PlayStation 5"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en,
+        "Xbox Series X and Series S"@en .
+
+wd:Q323981 swproj:distributor "Electronic Arts"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "Romance"@en,
+        "first-person shooter"@en ;
+    swproj:input_method "Xbox 360 controller"@en,
+        "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Left 4 Dead"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q327594 swproj:distributor "Ubisoft"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "role-playing video game"@en ;
+    swproj:input_method "DualShock"@en ;
+    swproj:name "Final Fantasy XII"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "PlayStation 2"@en,
+        "PlayStation 4"@en,
+        "Xbox One"@en .
+
+wd:Q332697 swproj:distributor "App Store"@en,
+        "GOG.com"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Now"@en,
+        "PlayStation Store"@en,
+        "Stadia"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "indie game"@en,
+        "sandbox game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "game controller"@en,
+        "gamepad"@en,
+        "joystick"@en,
+        "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Terraria"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "Linux"@en,
+        "Microsoft Windows"@en,
+        "Nintendo 3DS"@en,
+        "Nintendo Switch"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "PlayStation 5"@en,
+        "PlayStation Vita"@en,
+        "Wii U"@en,
+        "Windows Phone"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q333367 swproj:distributor "Daybreak Game Company"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "massively multiplayer online first-person shooter game"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "PlanetSide 2"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 4"@en .
+
+wd:Q336177 swproj:distributor "Atari"@en,
+        "Epic Games Store"@en,
+        "Steam"@en,
+        "Valve Corporation"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "massively multiplayer online game"@en,
+        "massively multiplayer online role-playing game"@en,
+        "role-playing video game"@en,
+        "space flight simulation game"@en,
+        "space opera"@en,
+        "space opera video game"@en,
+        "space trading and combat game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "EVE Online"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q337865 swproj:distributor "Epic Games Store"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "PlayStation Store"@en,
+        "Steam"@en,
+        "Ubisoft Store"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Far Cry"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en .
+
+wd:Q338486 swproj:distributor "App Store"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "fictional crossover"@en,
+        "fighting game"@en,
+        "video game with LGBT character"@en ;
+    swproj:input_method "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "Street Fighter X Tekken"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation Vita"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q343120 swproj:distributor "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "real-time strategy"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "Act of War: Direct Action"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q34869 swproj:distributor "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "real-time strategy"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Age of Empires III"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "N-Gage"@en,
+        "Windows Mobile"@en,
+        "macOS"@en .
+
+wd:Q349087 swproj:distributor "PlayStation Now"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Tron: Evolution"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Xbox 360"@en .
+
+wd:Q34920 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "massively multiplayer online real-time strategy game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Age of Empires Online"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q349375 swproj:distributor "App Store"@en,
+        "Epic Games Store"@en,
+        "Nintendo Game Store"@en,
+        "Nintendo eShop"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "single-player video game"@en ;
+    swproj:genre "battle royale game"@en,
+        "sandbox game"@en,
+        "survival game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Fortnite"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "PlayStation 4"@en,
+        "PlayStation 5"@en,
+        "Xbox One"@en,
+        "Xbox Series X and Series S"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q350820 swproj:distributor "Humble Store"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "survival game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Diggles: The Myth of Fenris"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q35627 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "single-player video game"@en ;
+    swproj:genre "platform game"@en ;
+    swproj:input_method "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "Sonic the Hedgehog 2"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Android"@en,
+        "Linux"@en,
+        "Microsoft Windows"@en,
+        "Nintendo 3DS"@en,
+        "Nintendo DS"@en,
+        "Nintendo GameCube"@en,
+        "PlayStation 2"@en,
+        "Sega Mega Drive"@en,
+        "Virtual Console"@en,
+        "Windows Phone"@en,
+        "Xbox"@en,
+        "iOS"@en,
+        "macOS"@en,
+        "mobile phone"@en .
+
+wd:Q370055 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en,
+        "action-adventure game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "The Legend of Zelda: A Link to the Past"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Super Nintendo Entertainment System"@en .
+
+wd:Q370549 swproj:distributor "PlayStation Store"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "alternate history video game"@en,
+        "first-person shooter"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Resistance: Fall of Man"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "PlayStation 3"@en .
+
+wd:Q37123 swproj:distributor "App Store"@en,
+        "Apple Store Online"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "PlayStation Store"@en,
+        "Steam"@en,
+        "Xbox Live Arcade"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "platform game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Sonic the Hedgehog"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Android"@en,
+        "BlackBerry"@en,
+        "Game Boy Advance"@en,
+        "Java Platform, Micro Edition"@en,
+        "Microsoft Windows"@en,
+        "Nintendo 3DS"@en,
+        "Nintendo DS"@en,
+        "Nintendo GameCube"@en,
+        "Nintendo Switch"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "PlayStation Portable"@en,
+        "Sega Dreamcast"@en,
+        "Sega Mega Drive"@en,
+        "Sega Saturn"@en,
+        "Wii"@en,
+        "Xbox"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en,
+        "iOS"@en,
+        "mobile phone"@en,
+        "video game arcade cabinet"@en .
+
+wd:Q374320 swproj:distributor "GOG.com"@en,
+        "Majesco Entertainment"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "platform game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Disney's Action Game Featuring Hercules"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation"@en .
+
+wd:Q376672 swproj:distributor "App Store"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "adventure game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Runaway 2: The Dream of the Turtle"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "Wii"@en,
+        "iOS"@en .
+
+wd:Q377242 swproj:distributor "Epic Games Store"@en,
+        "GOG.com"@en,
+        "Microsoft Store"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "stealth game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Tom Clancy's Splinter Cell"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Game Boy Advance"@en,
+        "Microsoft Windows"@en,
+        "N-Gage"@en,
+        "Nintendo GameCube"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "Xbox"@en,
+        "macOS"@en .
+
+wd:Q378664 swproj:distributor "App Store"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "platform game"@en,
+        "racing video game"@en ;
+    swproj:input_method "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "Trials Evolution"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q379128 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "tower defense"@en ;
+    swproj:input_method "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Plants vs. Zombies"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "BlackBerry 10"@en,
+        "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "PlayStation Vita"@en,
+        "Windows Phone"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q379807 swproj:distributor "GOG.com"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action game"@en,
+        "action-adventure game"@en,
+        "space opera video game"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Advent Rising"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "IBM PC compatible"@en,
+        "Microsoft Windows"@en,
+        "Xbox"@en .
+
+wd:Q382108 swproj:distributor "Electronic Arts"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "player versus player"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Team Fortress 2"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q383700 swproj:distributor "App Store"@en,
+        "Marvel Entertainment"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "fictional crossover"@en,
+        "fighting game"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "Marvel vs. Capcom 2: New Age of Heroes"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Sega Dreamcast"@en,
+        "Xbox"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q385184 swproj:distributor "Activision Publishing"@en,
+        "Humble Store"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "DualShock"@en ;
+    swproj:name "Ōkami"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "PlayStation 2"@en,
+        "Wii"@en .
+
+wd:Q385270 swproj:distributor "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Bionic Commando"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en .
+
+wd:Q386452 swproj:distributor "GOG.com"@en,
+        "Ubisoft"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "turn-based strategy video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Imperialism"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Classic Mac OS"@en,
+        "Microsoft Windows"@en .
+
+wd:Q389254 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "platform game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Super Castlevania IV"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Super Nintendo Entertainment System"@en .
+
+wd:Q390595 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "role-playing video game"@en,
+        "science fantasy video game"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "Final Fantasy XIII"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q392183 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "sword and sorcery"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Age of Conan"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q392311 swproj:distributor "Google Play"@en,
+        "Lionsgate Films"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "Saw"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en .
+
+wd:Q392320 swproj:distributor "PlayStation Now"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "role-playing video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Rise of the Argonauts"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en .
+
+wd:Q392678 swproj:distributor "Humble Store"@en,
+        "Steam"@en,
+        "Valve Corporation"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "Red Orchestra 2: Heroes of Stalingrad"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q392707 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Frontlines: Fuel of War"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Xbox 360"@en .
+
+wd:Q400488 swproj:distributor "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Game of Thrones"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en .
+
+wd:Q40166 swproj:distributor "Humble Store"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en,
+        "Xbox Games Store"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "stealth game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Assassin's Creed III"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Java Platform, Micro Edition"@en,
+        "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "Wii U"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en .
+
+wd:Q401695 swproj:distributor "Bohemia Interactive"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "tactical shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Iron Front: Liberation 1944"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q40177 swproj:distributor "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "platform game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Sonic & Knuckles"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo GameCube"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "Sega Mega Drive"@en,
+        "Sega Saturn"@en,
+        "Wii"@en,
+        "Xbox"@en,
+        "Xbox 360"@en .
+
+wd:Q40627 swproj:distributor "PlayStation Now"@en,
+        "PlayStation Store"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "platform game"@en,
+        "stealth game"@en ;
+    swproj:input_method "DualShock 2"@en ;
+    swproj:name "Sly Cooper and the Thievius Raccoonus"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Vita"@en .
+
+wd:Q406414 swproj:distributor "Steam"@en,
+        "Ubisoft"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "massively multiplayer online role-playing game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Aion"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q408798 swproj:distributor "Electronic Arts"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "business simulation game"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "Airline Tycoon"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q4104 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "racing video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "touchscreen"@en ;
+    swproj:name "Need for Speed: Shift"@en ;
+    swproj:pegi "PEGI 3"@en,
+        "PEGI 7"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Symbian"@en,
+        "Windows Mobile"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q426939 swproj:distributor "App Store"@en,
+        "Google Play"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "association football video game"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "FIFA 11"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Android"@en,
+        "Java Virtual Machine"@en,
+        "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q427198 swproj:distributor "App Store"@en,
+        "GOG.com"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "platform game"@en ;
+    swproj:input_method "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "Pandemonium!"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "N-Gage"@en,
+        "PlayStation"@en,
+        "Sega Saturn"@en,
+        "iOS"@en .
+
+wd:Q428297 swproj:distributor "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "racing video game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Test Drive Unlimited 2"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en .
+
+wd:Q428715 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "real-time strategy"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "American Conquest"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Windows 2000"@en .
+
+wd:Q430080 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "racing video game"@en ;
+    swproj:input_method "Wii Remote"@en ;
+    swproj:name "Excite Truck"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Wii"@en .
+
+wd:Q440046 swproj:distributor "New Line Cinema"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "hack and slash"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "The Lord of the Rings: The Return of the King"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Game Boy Advance"@en,
+        "Microsoft Windows"@en,
+        "Nintendo GameCube"@en,
+        "PlayStation 2"@en,
+        "Xbox"@en,
+        "macOS"@en .
+
+wd:Q44462 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "Christmas video game"@en,
+        "life simulation game"@en ;
+    swproj:input_method "stylus"@en ;
+    swproj:name "Animal Crossing: New Leaf"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Nintendo 3DS"@en .
+
+wd:Q45028 swproj:distributor "Microsoft Store"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Halo 4"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Xbox 360"@en,
+        "Xbox One"@en .
+
+wd:Q471803 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "real-time strategy"@en,
+        "real-time tactics"@en,
+        "turn-based strategy video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "touchscreen"@en ;
+    swproj:name "Rome: Total War"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q471974 swproj:distributor "App Store"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "racing video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "touchscreen"@en ;
+    swproj:name "Need for Speed: Undercover"@en ;
+    swproj:pegi "PEGI 12"@en,
+        "PEGI 3"@en,
+        "PEGI 7"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Windows Phone"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q472645 swproj:distributor "GOG.com"@en,
+        "Humble Store"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Arcania: Gothic 4"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "Xbox 360"@en .
+
+wd:Q472909 swproj:distributor "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "Romance"@en,
+        "first-person shooter"@en ;
+    swproj:input_method "Xbox 360 controller"@en,
+        "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Left 4 Dead 2"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q473673 swproj:distributor "Electronic Arts"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "tactical shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Counter-Strike: Source"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q473852 swproj:distributor "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Prototype"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en .
+
+wd:Q474573 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "role-playing video game"@en,
+        "video game with LGBT character"@en ;
+    swproj:input_method "DualShock"@en,
+        "touchscreen"@en ;
+    swproj:name "Final Fantasy IX"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "PlayStation"@en,
+        "PlayStation 4"@en,
+        "iOS"@en .
+
+wd:Q474798 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "role-playing video game"@en ;
+    swproj:input_method "game controller"@en ;
+    swproj:name "The Legend of Zelda: The Minish Cap"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Game Boy Advance"@en .
+
+wd:Q477199 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "massively multiplayer online role-playing game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Lineage II"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q478583 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "olympic video game"@en,
+        "sports video game"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "London 2012"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q483131 swproj:distributor "App Store"@en,
+        "Google Play"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "fantasy"@en,
+        "sports video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "touchscreen"@en ;
+    swproj:name "PangYa"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "iOS"@en .
+
+wd:Q483207 swproj:distributor "Atari"@en,
+        "Steam"@en,
+        "Ubisoft"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "massively multiplayer online role-playing game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "The Exiled Realm of Arborea"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q483850 swproj:distributor "Neowiz"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "IBM PC keyboard"@en ;
+    swproj:name "Alliance of Valiant Arms"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q484907 swproj:distributor "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "LGBTI+ related video game"@en,
+        "massively multiplayer online role-playing game"@en,
+        "video game with LGBT character"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "Guild Wars 2"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q486233 swproj:distributor "Humble Store"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Call of Duty: Modern Warfare 3"@en ;
+    swproj:pegi "PEGI 16"@en,
+        "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 3"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en,
+        "macOS"@en .
+
+wd:Q486351 swproj:distributor "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Call of Duty: Modern Warfare 2"@en ;
+    swproj:pegi "PEGI 16"@en,
+        "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q489132 swproj:distributor "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en,
+        "science fantasy video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Hellgate: London"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q489583 swproj:distributor "App Store"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "indie game"@en,
+        "platform game"@en,
+        "puzzle-platformer"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "touchscreen"@en ;
+    swproj:name "And Yet It Moves"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "Wii"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q49607 swproj:distributor "Humble Store"@en,
+        "PlayStation Now"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "The Elder Scrolls IV: Oblivion"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "mobile phone"@en,
+        "personal computer"@en .
+
+wd:Q49740 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Store"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "sandbox game"@en,
+        "survival game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "game controller"@en,
+        "joystick"@en,
+        "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Minecraft"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Android"@en,
+        "Java Virtual Machine"@en,
+        "Kindle Fire HD"@en,
+        "Linux"@en,
+        "Microsoft Windows"@en,
+        "New Nintendo 3DS"@en,
+        "Nintendo Switch"@en,
+        "Ouya"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "PlayStation Vita"@en,
+        "Raspberry Pi"@en,
+        "Wii U"@en,
+        "Windows Phone"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en,
+        "iOS"@en,
+        "javaScript"@en,
+        "macOS"@en .
+
+wd:Q500851 swproj:distributor "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "strategy video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Company of Heroes"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "macOS"@en,
+        "personal computer"@en .
+
+wd:Q507396 swproj:distributor "Activision Blizzard"@en,
+        "Nintendo eShop"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "platform game"@en ;
+    swproj:input_method "Wii Remote"@en ;
+    swproj:name "Crash: Mind over Mutant"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Nintendo DS"@en,
+        "PlayStation 2"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Xbox 360"@en .
+
+wd:Q522508 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "platform game"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "Wii Remote"@en ;
+    swproj:name "Super Paper Mario"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Wii"@en,
+        "Wii U"@en .
+
+wd:Q526700 swproj:distributor "PlayStation Store"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "cyberpunk video game"@en,
+        "platform game"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "DualShock"@en ;
+    swproj:name "Jak II"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "PlayStation Vita"@en .
+
+wd:Q528128 swproj:distributor "PlayStation Now"@en,
+        "PlayStation Store"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "DualShock 3"@en ;
+    swproj:name "Killzone 3"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "PlayStation 3"@en .
+
+wd:Q528310 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "real-time strategy"@en,
+        "real-time tactics"@en,
+        "turn-based strategy video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Shogun: Total War"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q532178 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "racing video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Colin McRae: Dirt"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en .
+
+wd:Q533304 swproj:distributor "Epic Games Store"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Store"@en,
+        "Steam"@en,
+        "Ubisoft Store"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "stealth game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Tom Clancy's Splinter Cell: Chaos Theory"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "N-Gage"@en,
+        "Nintendo DS"@en,
+        "Nintendo GameCube"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "Xbox"@en,
+        "Xbox 360"@en .
+
+wd:Q535928 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "turn-based strategy video game"@en,
+        "turn-based tactics"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "Battles of Prince of Persia"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Nintendo DS"@en .
+
+wd:Q535940 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "Turn based JRPG"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "Final Fantasy VI"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Android"@en,
+        "Game Boy Advance"@en,
+        "Microsoft Windows"@en,
+        "PlayStation"@en,
+        "PlayStation Portable"@en,
+        "Super Nintendo Entertainment System"@en,
+        "Virtual Console"@en,
+        "iOS"@en .
+
+wd:Q538821 swproj:distributor "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fiction video game"@en,
+        "stealth game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Crysis 3"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en .
+
+wd:Q540406 swproj:distributor "App Store"@en,
+        "Eidos Interactive"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Stadia"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "platform game"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "touchscreen"@en ;
+    swproj:name "Lara Croft and the Guardian of Light"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "BlackBerry PlayBook"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q544071 swproj:distributor "CipSoft GmbH"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "adventure game"@en,
+        "massively multiplayer online role-playing game"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "Tibia"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q544818 swproj:distributor "App Store"@en,
+        "GOG.com"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "graphic adventure game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "touchscreen"@en ;
+    swproj:name "Broken Sword II: The Smoking Mirror"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "PlayStation"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q545072 swproj:distributor "Nintendo"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "Christmas video game"@en,
+        "racing video game"@en,
+        "vehicular combat game"@en ;
+    swproj:input_method "Nintendo 64 controller"@en ;
+    swproj:name "Diddy Kong Racing"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Nintendo 64"@en,
+        "Nintendo DS"@en .
+
+wd:Q547836 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "city-building game"@en ;
+    swproj:input_method "Wii Remote"@en ;
+    swproj:name "SimCity Creator"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Wii"@en .
+
+wd:Q548203 swproj:distributor "PlayStation 5"@en,
+        "PlayStation Now"@en,
+        "PlayStation Store"@en,
+        "Take-Two Interactive"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Red Dead Redemption"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "PlayStation 3"@en,
+        "Xbox 360"@en .
+
+wd:Q54850 swproj:distributor "Humble Store"@en,
+        "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Star Wars: The Clone Wars – Republic Heroes"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Xbox 360"@en .
+
+wd:Q54865 swproj:distributor "GOG.com"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "space opera video game"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Star Wars: Battlefront II"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "PlayStation Portable"@en,
+        "Xbox"@en .
+
+wd:Q55214 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Now"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Lego Star Wars: The Complete Saga"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 3"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q55228 swproj:distributor "GOG.com"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Now"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "platform game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Lego Star Wars III: The Clone Wars"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo 3DS"@en,
+        "Nintendo DS"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q55272 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "massively multiplayer online role-playing game"@en,
+        "role-playing video game"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Star Wars Galaxies"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q55298 swproj:distributor "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Star Wars Jedi Knight II: Jedi Outcast"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Classic Mac OS"@en,
+        "Microsoft Windows"@en,
+        "Nintendo GameCube"@en,
+        "Xbox"@en,
+        "macOS"@en .
+
+wd:Q55313 swproj:distributor "GOG.com"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "space combat simulation game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Star Wars: X-Wing Alliance"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "IBM PC compatible"@en,
+        "Microsoft Windows"@en .
+
+wd:Q55315 swproj:distributor "GOG.com"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "real-time strategy"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Star Wars: Empire at War"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q553308 swproj:distributor "Electronic Arts"@en,
+        "Steam"@en ;
+    swproj:gamemode "parlour game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Half-Life 2: Episode Two"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q55532 swproj:distributor "App Store"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "shoot 'em up"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "1942"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Amstrad CPC"@en,
+        "Commodore 64"@en,
+        "MSX"@en,
+        "Nintendo Entertainment System"@en,
+        "ZX Spectrum"@en,
+        "arcade game machine"@en,
+        "iOS"@en .
+
+wd:Q557279 swproj:distributor "GOG.com"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "adventure game"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "Ankh: Heart of Osiris"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q567244 swproj:distributor "GOG.com"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "real-time strategy"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Anno 1503"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q567246 swproj:distributor "GOG.com"@en,
+        "Steam"@en,
+        "Ubisoft Store"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "business simulation game"@en,
+        "city-building game"@en,
+        "real-time strategy"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "Dawn of Discovery"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q567250 swproj:distributor "GOG.com"@en,
+        "Infogrames"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "real-time strategy"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Anno 1602"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q567252 swproj:distributor "Deep Silver"@en,
+        "GOG.com"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "real-time strategy"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Anno 1701"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q569898 swproj:distributor "Deep Silver"@en,
+        "Epic Games Store"@en,
+        "GOG.com"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Store"@en,
+        "Stadia"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "Romance"@en,
+        "first-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Metro: Last Light"@en ;
+    swproj:pegi "PEGI 16"@en,
+        "PEGI 18"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en,
+        "macOS"@en .
+
+wd:Q571299 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "The Chronicles of Riddick: Assault on Dark Athena"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q57270 swproj:distributor "App Store"@en,
+        "Humble Store"@en,
+        "PlayStation Now"@en,
+        "PlayStation Store"@en,
+        "Steam"@en,
+        "Take-Two Interactive"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fiction video game"@en,
+        "video game with LGBT character"@en ;
+    swproj:input_method "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "BioShock"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q575505 swproj:distributor "Epic Games Store"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Alan Wake"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Xbox 360"@en .
+
+wd:Q5766 swproj:distributor "App Store"@en,
+        "Discord Store"@en,
+        "GOG.com"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Store"@en,
+        "Steam"@en,
+        "itch.io"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "single-player video game"@en ;
+    swproj:genre "Metroidvania"@en,
+        "indie game"@en,
+        "puzzle-platformer"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "VVVVVV"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Android"@en,
+        "Linux"@en,
+        "Microsoft Windows"@en,
+        "Nintendo 3DS"@en,
+        "Nintendo Switch"@en,
+        "Ouya"@en,
+        "Pandora"@en,
+        "PlayStation 4"@en,
+        "PlayStation Vita"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q577381 swproj:distributor "Epic Games Store"@en,
+        "GOG.com"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "indie game"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Freedom Fighters"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo GameCube"@en,
+        "PlayStation 2"@en,
+        "Xbox"@en .
+
+wd:Q578147 swproj:distributor "PlayStation Store"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "racing video game"@en ;
+    swproj:input_method "DualShock"@en ;
+    swproj:name "Burnout Dominator"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "PlayStation 2"@en,
+        "PlayStation Portable"@en .
+
+wd:Q579105 swproj:distributor "GOG.com"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "psychological horror"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "The Suffering"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "Xbox"@en .
+
+wd:Q579708 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "PlayStation Now"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "platform game"@en ;
+    swproj:input_method "game controller"@en,
+        "touchscreen"@en ;
+    swproj:name "Sonic the Hedgehog CD"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "Nintendo GameCube"@en,
+        "PlayStation 2"@en,
+        "PlayStation Portable"@en,
+        "Sega Mega Drive"@en,
+        "Sega Mega-CD"@en,
+        "iOS"@en .
+
+wd:Q580202 swproj:distributor "App Store"@en,
+        "GOG.com"@en,
+        "Google Play"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Now"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "adventure game"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "Syberia"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "Xbox"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q580667 swproj:distributor "Humble Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Tomb Raider: Anniversary"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q580794 swproj:distributor "Discord Store"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "PlayStation Store"@en,
+        "Steam"@en,
+        "itch.io"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "heavy metal"@en,
+        "indie game"@en,
+        "real-time strategy"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Brütal Legend"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q583301 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "association football video game"@en ;
+    swproj:input_method "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "FIFA 10"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Android"@en,
+        "Java Virtual Machine"@en,
+        "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q583601 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "hack and slash"@en,
+        "science fantasy video game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Devil May Cry 2"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Nintendo Switch"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en .
+
+wd:Q585271 swproj:distributor "GOG.com"@en,
+        "Humble Store"@en,
+        "Steam"@en,
+        "Ubisoft"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Call of Juarez"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Xbox 360"@en .
+
+wd:Q585939 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "platform game"@en ;
+    swproj:input_method "Wii Remote"@en ;
+    swproj:name "Donkey Kong Country Returns"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Nintendo 3DS"@en,
+        "Wii"@en .
+
+wd:Q586736 swproj:distributor "App Store"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "association football video game"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "2010 FIFA World Cup South Africa"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q588147 swproj:distributor "GOG.com"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Unreal"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Classic Mac OS"@en,
+        "Linux"@en,
+        "Macintosh operating systems"@en,
+        "Microsoft Windows"@en .
+
+wd:Q588328 swproj:distributor "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "Dark Messiah of Might and Magic"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Xbox 360"@en .
+
+wd:Q588526 swproj:distributor "App Store"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "Gore"@en,
+        "beat 'em up"@en ;
+    swproj:input_method "joystick"@en,
+        "touchscreen"@en ;
+    swproj:name "Splatterhouse"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "FM Towns"@en,
+        "Microsoft Windows"@en,
+        "TurboGrafx-16"@en,
+        "iOS"@en .
+
+wd:Q588710 swproj:distributor "GOG.com"@en,
+        "PlayStation Store"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "business simulation game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Theme Hospital"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "DOS"@en,
+        "Microsoft Windows"@en,
+        "PlayStation"@en,
+        "PlayStation 3"@en .
+
+wd:Q590342 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Microsoft Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "action game"@en,
+        "massively multiplayer online game"@en,
+        "tank simulation game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "World of Tanks"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 4"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q590516 swproj:distributor "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "tactical shooter"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "ARMA: Armed Assault"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q592507 swproj:distributor "App Store"@en,
+        "Google Play"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "graphic adventure game"@en,
+        "neo-noir"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "touchscreen"@en ;
+    swproj:name "Grim Fandango"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "Linux"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 4"@en,
+        "PlayStation Vita"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q592573 swproj:distributor "App Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "association football management game"@en,
+        "association football video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "touchscreen"@en ;
+    swproj:name "Football Manager 2011"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation Portable"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q593781 swproj:distributor "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Flicky"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Linux"@en,
+        "MSX"@en,
+        "Microsoft Windows"@en,
+        "SG-1000"@en,
+        "Sega Mega Drive"@en,
+        "arcade game machine"@en,
+        "macOS"@en .
+
+wd:Q598150 swproj:distributor "D3 Publisher"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "DualShock 2"@en,
+        "Nintendo GameCube controller"@en,
+        "Xbox controller"@en ;
+    swproj:name "Shrek 2"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Game Boy Advance"@en,
+        "Microsoft Windows"@en,
+        "Nintendo GameCube"@en,
+        "PlayStation 2"@en,
+        "Xbox"@en .
+
+wd:Q60102 swproj:distributor "GOG.com"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "role-playing video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Fallout"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Classic Mac OS"@en,
+        "DOS"@en,
+        "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q601050 swproj:distributor "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Resident Evil 5"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en .
+
+wd:Q601768 swproj:distributor "GOG.com"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "strategy video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Panzer Corps"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q604461 swproj:distributor "Humble Store"@en,
+        "Microsoft Store"@en,
+        "PlayStation Now"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "science fiction video game"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Dark Void"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en .
+
+wd:Q605842 swproj:distributor "App Store"@en,
+        "Microsoft Store"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "puzzle video game"@en,
+        "tile-matching video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "touchscreen"@en ;
+    swproj:name "Zuma"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q606894 swproj:distributor "Epic Games Store"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Store"@en,
+        "Steam"@en,
+        "Ubisoft Store"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "platform game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Rayman Origins"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo 3DS"@en,
+        "PlayStation 3"@en,
+        "PlayStation Vita"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q608954 swproj:distributor "PlayStation Now"@en,
+        "PlayStation Store"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "DualShock 3"@en ;
+    swproj:name "Killzone 2"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "PlayStation 3"@en .
+
+wd:Q613088 swproj:distributor "App Store"@en,
+        "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "association football video game"@en ;
+    swproj:input_method "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "Pro Evolution Soccer 2010"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q613124 swproj:distributor "GOG.com"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "Romance"@en,
+        "psychological horror"@en ;
+    swproj:input_method "DualShock"@en,
+        "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Silent Hill 4: The Room"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "Xbox"@en .
+
+wd:Q613511 swproj:distributor "App Store"@en,
+        "Deep Silver"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "indie game"@en,
+        "point-and-click adventure"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "touchscreen"@en ;
+    swproj:name "Back to the Future: The Game"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q614418 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "massively multiplayer online role-playing game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Wizard101"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q617336 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "adventure game"@en ;
+    swproj:input_method "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Secret Files 3"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "iOS"@en .
+
+wd:Q618121 swproj:distributor "PlayStation Now"@en,
+        "PlayStation Store"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "platform game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Ape Escape 2"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "PlayStation 2"@en .
+
+wd:Q618266 swproj:distributor "Daybreak Game Company"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Payday: The Heist"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en .
+
+wd:Q619427 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "fictional crossover"@en,
+        "fighting game"@en ;
+    swproj:input_method "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "Injustice: Gods Among Us"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "PlayStation Vita"@en,
+        "Wii U"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q621616 swproj:distributor "GOG.com"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Tomb Raider: The Angel of Darkness"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "macOS"@en .
+
+wd:Q622386 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "fictional crossover"@en,
+        "racing video game"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "Konami Krazy Racers"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Android"@en,
+        "Game Boy Advance"@en,
+        "iOS"@en .
+
+wd:Q623479 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "massively multiplayer online role-playing game"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "The Lord of the Rings Online"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q625305 swproj:distributor "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "beat 'em up"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Golden Axe III"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "Sega Mega Drive"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q626802 swproj:distributor "Disney Interactive Studios"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en,
+        "fictional crossover"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "DualShock"@en ;
+    swproj:name "Kingdom Hearts II"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "PlayStation 2"@en,
+        "PlayStation 3"@en .
+
+wd:Q627021 swproj:distributor "App Store"@en,
+        "Nintendo eShop"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "Metroidvania"@en,
+        "platform game"@en ;
+    swproj:input_method "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "Wonder Boy III: The Dragon's Trap"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Sega Master System"@en,
+        "TurboGrafx-16"@en,
+        "iOS"@en .
+
+wd:Q627877 swproj:distributor "GOG.com"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "cyberpunk video game"@en,
+        "first-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Unreal Tournament"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Classic Mac OS"@en,
+        "Linux"@en,
+        "Macintosh operating systems"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "Sega Dreamcast"@en,
+        "macOS"@en .
+
+wd:Q629577 swproj:distributor "GOG.com"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "role-playing video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Neverwinter Nights 2"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Macintosh operating systems"@en,
+        "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q629626 swproj:distributor "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "real-time tactics"@en,
+        "turn-based strategy video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Medieval II: Total War"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q631367 swproj:distributor "Warner Bros. Interactive Entertainment"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "fictional crossover"@en,
+        "fighting game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Mortal Kombat vs. DC Universe"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "PlayStation 3"@en,
+        "Xbox 360"@en .
+
+wd:Q631704 swproj:distributor "Activision Publishing"@en,
+        "GOG.com"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "role-playing video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "mouse"@en ;
+    swproj:name "Arcanum: Of Steamworks and Magick Obscura"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q633046 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "real-time strategy"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Command & Conquer 3: Tiberium Wars"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q634893 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "real-time tactics"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "Command & Conquer 4: Tiberian Twilight"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q637271 swproj:distributor "Steam"@en,
+        "Ubisoft"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "fantasy"@en,
+        "massively multiplayer online role-playing game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Rift"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q637312 swproj:distributor "App Store"@en,
+        "Epic Games Store"@en,
+        "GOG.com"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "physics game"@en,
+        "puzzle video game"@en ;
+    swproj:input_method "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "World of Goo"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Android"@en,
+        "BlackBerry 10"@en,
+        "Linux"@en,
+        "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "Wii"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q640226 swproj:distributor "GOG.com"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "PlayStation Now"@en,
+        "Steam"@en,
+        "Warner Bros. Interactive Entertainment"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Overlord II"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q640567 swproj:distributor "Microsoft Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "beat 'em up"@en,
+        "indie game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Castle Crashers"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q641684 swproj:distributor "GOG.com"@en ;
+    swproj:gamemode "hotseat"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "turn-based strategy video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Heroes of Might and Magic IV"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Classic Mac OS"@en,
+        "Microsoft Windows"@en .
+
+wd:Q641697 swproj:distributor "PlayStation Store"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "third-person shooter"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Red Dead Revolver"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "PlayStation 2"@en,
+        "Xbox"@en .
+
+wd:Q642107 swproj:distributor "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en,
+        "cyberpunk video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Deus Ex: Human Revolution"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Wii U"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q644793 swproj:distributor "Eidos Interactive"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en,
+        "cyberpunk video game"@en,
+        "first-person shooter"@en,
+        "role-playing video game"@en,
+        "stealth game"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "Deus Ex"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Classic Mac OS"@en,
+        "Macintosh operating systems"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en .
+
+wd:Q645003 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Nintendo eShop"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "adventure game"@en,
+        "visual novel"@en ;
+    swproj:input_method "game controller"@en,
+        "touchscreen"@en ;
+    swproj:name "Phoenix Wright: Ace Attorney – Justice for All"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "Game Boy Advance"@en,
+        "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "iOS"@en .
+
+wd:Q647054 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Now"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "Retro City Rampage"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "Linux"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "PlayStation Vita"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q647249 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "platform game"@en ;
+    swproj:input_method "game controller"@en ;
+    swproj:name "Super Mario Land"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Game Boy"@en .
+
+wd:Q647667 swproj:distributor "Warner Bros. Interactive Entertainment"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "platform game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Scooby-Doo! Unmasked"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Game Boy Advance"@en,
+        "Nintendo DS"@en,
+        "Nintendo GameCube"@en,
+        "PlayStation 2"@en,
+        "Xbox"@en .
+
+wd:Q647855 swproj:distributor "Epic Games Store"@en,
+        "Humble Store"@en,
+        "PlayStation Now"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "drama"@en,
+        "interactive film"@en ;
+    swproj:input_method "DualShock"@en,
+        "PlayStation Move"@en,
+        "Sixaxis"@en,
+        "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Heavy Rain"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en .
+
+wd:Q648980 swproj:distributor "Humble Store"@en,
+        "Microsoft Store"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "psychological horror"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Alice: Madness Returns"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en .
+
+wd:Q650025 swproj:distributor "20th Century Studios"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Aliens: Colonial Marines"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en .
+
+wd:Q657710 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "stylus"@en ;
+    swproj:name "The Legend of Zelda: Phantom Hourglass"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Nintendo DS"@en .
+
+wd:Q660148 swproj:distributor "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "psychological horror"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Condemned: Criminal Origins"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Xbox 360"@en .
+
+wd:Q663583 swproj:distributor "GOG.com"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "role-playing video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Baldur's Gate"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q663665 swproj:distributor "Electronic Arts"@en,
+        "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "racing video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Need for Speed: ProStreet"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Xbox 360"@en .
+
+wd:Q664538 swproj:distributor "GOG.com"@en,
+        "Steam"@en,
+        "Vivendi Games"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "real-time strategy"@en,
+        "real-time tactics"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "World in Conflict"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Xbox 360"@en .
+
+wd:Q665733 swproj:distributor "Nintendo eShop"@en,
+        "Warner Bros. Interactive Entertainment"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "third-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Harry Potter and the Deathly Hallows – Part 1"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 3"@en,
+        "Wii"@en,
+        "Xbox 360"@en .
+
+wd:Q665790 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "music video game"@en ;
+    swproj:input_method "Wii Balance Board"@en,
+        "Wii Remote"@en ;
+    swproj:name "Wii Music"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Wii"@en .
+
+wd:Q668568 swproj:distributor "Humble Store"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Tomb Raider: The Last Revelation"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Classic Mac OS"@en,
+        "Microsoft Windows"@en,
+        "PlayStation"@en,
+        "Sega Dreamcast"@en,
+        "macOS"@en .
+
+wd:Q671152 swproj:distributor "Electronic Arts"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Crysis 2"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en .
+
+wd:Q672049 swproj:distributor "Nintendo eShop"@en,
+        "PlayStation Now"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "fighting game"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Tekken Tag Tournament 2"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "PlayStation 3"@en,
+        "Wii U"@en,
+        "Xbox 360"@en .
+
+wd:Q672303 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "science fiction video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Chrome"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q674746 swproj:distributor "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "business simulation game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Hospital Tycoon"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q676123 swproj:distributor "Sega"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en,
+        "simulation video game"@en,
+        "tactical shooter"@en,
+        "third-person shooter"@en,
+        "vehicular combat game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "ARMA 3"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q676563 swproj:distributor "App Store"@en,
+        "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "first-person shooter"@en ;
+    swproj:input_method "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Battlefield: Bad Company 2"@en ;
+    swproj:pegi "PEGI 16"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "iOS"@en,
+        "personal computer"@en .
+
+wd:Q677274 swproj:distributor "App Store"@en,
+        "Epic Games Store"@en,
+        "PlayStation Now"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "art game"@en,
+        "indie game"@en,
+        "walking simulator"@en ;
+    swproj:input_method "DualShock"@en,
+        "touchscreen"@en ;
+    swproj:name "Journey"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "iOS"@en,
+        "personal computer"@en .
+
+wd:Q677351 swproj:distributor "Steam"@en,
+        "Ubisoft Store"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "stealth game"@en,
+        "video game with LGBT character"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Assassin's Creed: Brotherhood"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q677869 swproj:distributor "Humble Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "grand strategy wargame"@en,
+        "historic game"@en,
+        "indie game"@en,
+        "real-time strategy"@en,
+        "wargame"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Crusader Kings II"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q678394 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en ;
+    swproj:genre "massively multiplayer online role-playing game"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Final Fantasy XI"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "PlayStation Vita"@en,
+        "Xbox 360"@en,
+        "iOS"@en .
+
+wd:Q680785 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "strategy video game"@en ;
+    swproj:input_method "Wii Remote"@en ;
+    swproj:name "Worms: A Space Oddity"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Java Virtual Machine"@en,
+        "Wii"@en .
+
+wd:Q680816 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "artillery game"@en,
+        "strategy video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Worms World Party"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Game Boy Advance"@en,
+        "Microsoft Windows"@en,
+        "N-Gage"@en,
+        "PlayStation"@en,
+        "Sega Dreamcast"@en .
+
+wd:Q682617 swproj:distributor "App Store"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action role-playing game"@en,
+        "indie game"@en,
+        "role-playing video game"@en ;
+    swproj:input_method "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Dust: An Elysian Tail"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Linux"@en,
+        "Microsoft Windows"@en,
+        "Nintendo Switch"@en,
+        "PlayStation 4"@en,
+        "Xbox 360"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q684690 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Steam"@en,
+        "THQ Nordic"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "puzzle video game"@en,
+        "strategy video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Neighbours from Hell 2: On Vacation"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "Nintendo GameCube"@en,
+        "Xbox"@en,
+        "iOS"@en .
+
+wd:Q684904 swproj:distributor "Electronic Arts"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "real-time strategy"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "Command & Conquer: Red Alert 2"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Microsoft Windows"@en .
+
+wd:Q686451 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "adventure game"@en ;
+    swproj:input_method "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Secret Files 2: Puritas Cordis"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "Nintendo Switch"@en,
+        "Wii"@en,
+        "iOS"@en .
+
+wd:Q687559 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "Nintendo eShop"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "role-playing video game"@en ;
+    swproj:input_method "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "Final Fantasy III"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "Nintendo Entertainment System"@en,
+        "Ouya"@en,
+        "PlayStation Portable"@en,
+        "Windows Phone"@en,
+        "iOS"@en .
+
+wd:Q71936 swproj:distributor "Nintendo eShop"@en ;
+    swproj:gamemode "hotseat"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "sports video game"@en ;
+    swproj:input_method "Wii Remote"@en ;
+    swproj:name "Wii Sports"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Wii"@en .
+
+wd:Q74401 swproj:distributor "GOG.com"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "adventure game"@en ;
+    swproj:input_method "mouse"@en ;
+    swproj:name "Indiana Jones and the Fate of Atlantis"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Classic Mac OS"@en,
+        "Commodore Amiga"@en,
+        "DOS"@en,
+        "Microsoft Windows"@en,
+        "macOS"@en .
+
+wd:Q74545 swproj:distributor "Epic Games Store"@en,
+        "GOG.com"@en,
+        "Humble Store"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Now"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Lego Batman: The Videogame"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Xbox 360"@en .
+
+wd:Q74630 swproj:distributor "GOG.com"@en,
+        "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Now"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "co-op mode"@en,
+        "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Lego Indiana Jones: The Original Adventures"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Xbox"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q74669 swproj:distributor "App Store"@en,
+        "Discord Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "LucasArts"@en,
+        "Steam"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "role-playing video game"@en,
+        "space opera video game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "touchscreen"@en ;
+    swproj:name "Star Wars Knights of the Old Republic II: The Sith Lords"@en ;
+    swproj:pegi "PEGI 12"@en ;
+    swproj:platform "Android"@en,
+        "Linux"@en,
+        "Microsoft Windows"@en,
+        "Xbox"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q74683 swproj:distributor "Nintendo eShop"@en,
+        "PlayStation Now"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Lego Indiana Jones 2: The Adventure Continues"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "macOS"@en .
+
+wd:Q76868 swproj:distributor "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "stealth game"@en ;
+    swproj:input_method "game controller"@en ;
+    swproj:name "Assassin's Creed III: Liberation"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation Vita"@en,
+        "Xbox 360"@en .
+
+wd:Q83265 swproj:distributor "Take-Two Interactive"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Grand Theft Auto: San Andreas"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "Windows Phone"@en,
+        "Xbox"@en,
+        "Xbox 360"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q83565 swproj:distributor "Microsoft Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Now"@en,
+        "PlayStation Store"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "fictional crossover"@en,
+        "platform game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "joystick"@en ;
+    swproj:name "Epic Mickey 2: The Power of Two"@en ;
+    swproj:pegi "PEGI 7"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "PlayStation Vita"@en,
+        "Wii"@en,
+        "Wii U"@en,
+        "Xbox 360"@en .
+
+wd:Q94355 swproj:distributor "App Store"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Now"@en,
+        "Steam"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "racing video game"@en,
+        "third-person shooter"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "touchscreen"@en ;
+    swproj:name "Cars 2"@en ;
+    swproj:pegi "PEGI 3"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "Nintendo DS"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "Wii"@en,
+        "Xbox 360"@en,
+        "iOS"@en,
+        "macOS"@en .
+
+wd:Q94460 swproj:distributor "Steam"@en,
+        "Take-Two Interactive"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "cyberpunk video game"@en ;
+    swproj:input_method "computer keyboard"@en ;
+    swproj:name "Grand Theft Auto 2"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Game Boy Color"@en,
+        "Microsoft Windows"@en,
+        "PlayStation"@en,
+        "Sega Dreamcast"@en .
+
+wd:Q94640 swproj:distributor "Take-Two Interactive"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "video game with LGBT character"@en ;
+    swproj:input_method "gamepad"@en ;
+    swproj:name "Grand Theft Auto: Vice City Stories"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en .
+
+wd:Q94671 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Humble Store"@en,
+        "PlayStation Store"@en,
+        "Steam"@en,
+        "Take-Two Interactive"@en ;
+    swproj:gamemode "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en,
+        "touchscreen"@en ;
+    swproj:name "Grand Theft Auto: Vice City"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation 4"@en,
+        "Xbox"@en,
+        "iOS"@en,
+        "macOS"@en,
+        "personal computer"@en .
+
+wd:Q94778 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "PlayStation Store"@en,
+        "Take-Two Interactive"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "video game with LGBT character"@en ;
+    swproj:input_method "gamepad"@en,
+        "touchscreen"@en ;
+    swproj:name "Grand Theft Auto: Liberty City Stories"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Android"@en,
+        "Microsoft Windows"@en,
+        "PlayStation 2"@en,
+        "PlayStation 3"@en,
+        "PlayStation Portable"@en,
+        "iOS"@en .
+
+wd:Q94797 swproj:distributor "Humble Store"@en,
+        "PlayStation Store"@en,
+        "Steam"@en,
+        "Take-Two Interactive"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en,
+        "video game with LGBT character"@en ;
+    swproj:input_method "computer keyboard"@en,
+        "gamepad"@en,
+        "mouse"@en ;
+    swproj:name "Grand Theft Auto IV"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Microsoft Windows"@en,
+        "PlayStation 3"@en,
+        "Xbox 360"@en,
+        "Xbox One"@en .
+
+wd:Q94871 swproj:distributor "App Store"@en,
+        "Google Play"@en,
+        "Nintendo eShop"@en,
+        "PlayStation Store"@en,
+        "Take-Two Interactive"@en ;
+    swproj:gamemode "multiplayer video game"@en,
+        "single-player video game"@en ;
+    swproj:genre "action-adventure game"@en ;
+    swproj:input_method "touchscreen"@en ;
+    swproj:name "Grand Theft Auto: Chinatown Wars"@en ;
+    swproj:pegi "PEGI 18"@en ;
+    swproj:platform "Android"@en,
+        "Nintendo DS"@en,
+        "PlayStation Portable"@en,
+        "iOS"@en .
